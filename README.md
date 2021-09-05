@@ -1,2 +1,0 @@
-# Projects
-Small js projects
