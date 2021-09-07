@@ -1,0 +1,43 @@
+<!-- links -->
+      <ul class="links">
+        <li>
+          <a href="index.html">home</a>
+        </li>
+        <li>
+          <a href="about.html">about</a>
+        </li>
+        <li>
+          <a href="projects.html">projects</a>
+        </li>
+        <li>
+          <a href="contact.html">contact</a>
+        </li>
+      </ul>
+      <!-- social media -->
+      <ul class="social-icons">
+        <li>
+          <a href="https://www.facebook.com/LegendryPratik">
+            <i class="fab fa-facebook"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.twitter.com/pratikjaiswal17">
+            <i class="fab fa-twitter"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://wordpress.com/home/blogofmonk.wordpress.com">
+            <i class="fab fa-wordpress"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/dxpratikk/">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/dx.pratikk/">
+            <i class="fab fa-Instagram"></i>
+          </a>
+        </li>
+      </ul>
